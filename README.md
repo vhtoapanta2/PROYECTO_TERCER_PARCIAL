@@ -45,7 +45,7 @@ OBJETIVOS ESPECIFICOS:
 
 MARCO TEORICO:
 
-![image](https://user-images.githubusercontent.com/117923992/221863878-3a684d8c-0915-4bb3-8ec7-e06301be01c0.png)
+![image](https://user-images.githubusercontent.com/117923992/221867621-bc2ce975-df96-448d-ad54-3185151c3af5.png)
 
 • Circuito integrado LM386
 
