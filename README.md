@@ -81,20 +81,40 @@ Esquema del Circuito
 
 ![image](https://user-images.githubusercontent.com/117923992/221867167-8d10ef21-0c68-4519-b714-f8ff3dbb4e88.png)
 
+CIRCUITO ARMADO:
+
+![image](https://user-images.githubusercontent.com/117923992/221875682-fd4c848b-0def-4105-863d-fa4a8469e847.png)
+
+FUNCIONAMIENTO:
+
+El Mini Amplificador de Audio Casero funciona tomando una señal de audio de entrada y amplificándola a un nivel de volumen mayor, para luego enviarla a un altavoz para que reproduzca el sonido.
+
+El circuito integrado LM386 es el componente principal del amplificador, ya que es el encargado de amplificar la señal de audio de entrada. La señal de audio de entrada se conecta al pin 3 del LM386 y es filtrada y estabilizada a través del condensador de 220 uF y el resistor de 10 kohmios.
+
+El potenciómetro de 10 kohmios permite ajustar el nivel de volumen del amplificador, controlando la cantidad de corriente eléctrica que se envía al pin 3 del LM386. Cuando el potenciómetro está ajustado en su posición más baja, la corriente eléctrica se limita y el volumen del amplificador es bajo. Cuando el potenciómetro está ajustado en su posición más alta, se envía más corriente eléctrica al pin 3 del LM386 y el volumen del amplificador es más alto.
+
+Después de que la señal de audio ha sido amplificada por el LM386, se envía a través del capacitor de 220 uF al altavoz. El altavoz convierte la señal eléctrica amplificada en vibraciones mecánicas que producen el sonido audible.
+
 VIDEO:
 
-LINK:
+LINK: https://www.youtube.com/watch?v=7U0o1pMvK42
 
 CONCLUSIONES:
+
+El Mini Amplificador de Audio Casero funciona amplificando una señal de audio de entrada y enviándola a un altavoz para producir sonido. El circuito integrado LM386 es el componente principal del amplificador, mientras que el potenciómetro de 10 kohmios controla el nivel de volumen del amplificador. El capacitor de 220 uF filtra la señal de audio y el altavoz convierte la señal eléctrica amplificada en sonido audible.
 
 En conclusión, la construcción de un mini amplificador de audio casero es una actividad interesante y educativa que puede ayudar a mejorar la comprensión de los principios básicos de la electrónica y la amplificación de audio. A través de la construcción del amplificador, se pueden adquirir habilidades prácticas en el manejo de herramientas y componentes electrónicos, y se pueden desarrollar habilidades en la resolución de problemas y la solución de errores comunes en la construcción de circuitos electrónicos.
 
 Es importante tener en cuenta que la construcción de un amplificador de audio casero requiere conocimientos básicos de electrónica y habilidades prácticas en el manejo de herramientas y componentes electrónicos. También es importante seguir cuidadosamente las instrucciones de construcción y tomar las precauciones necesarias para evitar riesgos de seguridad.
 
-Para la construcción de un mini amplificador de audio casero se pueden utilizar diferentes materiales y componentes, como el circuito integrado LM386, el potenciómetro de 10k, el condensador de 220uF a 16V, un cable plug y un parlante. Es importante tener en cuenta que la lista completa de materiales puede variar dependiendo del circuito y las especificaciones del proyecto.
-
 BIBLIOGRAFIA;
 
+• "¿Cómo funciona un amplificador? - Instituto Humart". Instituto Humart.
+https://institutohumart.org/como-funciona-un-amplificador/#:~:text=En%20términos%20generales,%20un%20amplificador,recibe%20aumentada%20en%20la%20salida. (accedido el 28 de febrero de 2023).
+
+Link del video de referencia para el proyecto:
+
+https://www.youtube.com/watch?v=8U0o1pAvK20
 
 
 
